@@ -19,7 +19,7 @@
     "type": "git",
     "url": "https://github.com/nicolas-thill/platform-teensy-e256.git"
   },
-  "version": "4.14.0",
+  "version": "4.14.0+e256.1",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinoteensy-e256",
@@ -47,7 +47,7 @@
     "framework-arduinoteensy-e256": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/nicolas-thill/framework-arduinoteensy-e256"
+      "version": "https://github.com/nicolas-thill/framework-arduinoteensy-e256#v1.155+e256.1"
     },
     "framework-mbed": {
       "type": "framework",
